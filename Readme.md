@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning C, C, and C <br>🎯 Goals: Survive<br>🎲 Fun fact: You are gay if you read this</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning C, C, and C <br>🎯 Goals: Survive<br>🎲 Fun fact: You are gay if you read this</p>
 
 ###
 
