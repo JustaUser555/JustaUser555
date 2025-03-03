@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gabriel and I'm from my mother</p> 
+<p align="left">My name is Gabriel and I'm from my mother</p>
 
 ###
 
@@ -48,7 +48,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=JustaUser555&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=8&order=3" height="125" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JustaUser555&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="125" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JustaUser555&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=true&order=2" height="125" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustaUser555&radius=16&theme=redical&area=true&order=5&hide_border=false&hide_title=true" height="250" alt="activity-graph graph"  />
 </div>
 
